@@ -1,0 +1,19 @@
+A* Algorithm Simulation by Eric Hepperle
+EricHepperle@gmail.com
+
+Project Includes:
+Main.java, GridButton.java, ConfirmBox.java, AlertBox.java
+
+Installation/Usage:
+1. Ensure your system has JDK 8 or newer to provide the JavaFX libraries.
+2. Either create a JAR file, or open the files as a project in a Java compatible IDE
+3. Using command line to make jar file:
+  a. Open command line in directory of .java files
+  b. Create a directory for project build
+  c. javac -d ./build *.java
+  d. Move to the build directory
+  e. jar cvf YourJar.jar *
+4. Using an IDE:
+  a. Create new Java project
+  b. Add .java files to new project
+  c. compile and run
