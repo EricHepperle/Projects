@@ -1,5 +1,9 @@
 A* Algorithm Simulation by Eric Hepperle
+Version 1.0 - 07/30/2015
+
+Contact:
 EricHepperle@gmail.com
++1(310)989-5960
 
 Description:
   This A* Algorithm simulator is a lightweight JavaFX application designed to demonstrate
@@ -9,19 +13,19 @@ Description:
   position and is initiated with the 'find path' button. It will analyze the map and highlight 
   the shortest path, as well all of the other paths considered.
 
-Project Includes:
+Project Package Includes:
 Main.java, GridButton.java, ConfirmBox.java, AlertBox.java
 
 Installation/Usage:
-1. Ensure your system has JDK 8 or newer to provide the JavaFX libraries.
-2. Either create a JAR file, or open the files as a project in a Java compatible IDE
-3. Using command line to make jar file:
+1. Ensure your system has JDK 8 or newer to provide the proper JavaFX libraries.
+2. Either (3)create a JAR file, or (4)open and build the files as a project in a Java compatible IDE
+3. Using command line to create a jar file:
   a. Open command line in directory of .java files
   b. Create a directory for project build
   c. javac -d ./build *.java
   d. Move to the build directory
   e. jar cvf YourJar.jar *
-4. Using an IDE:
+4. Using an IDE to open and build:
   a. Create new Java project
   b. Add .java files to new project
   c. compile and run
