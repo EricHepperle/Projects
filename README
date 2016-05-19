@@ -7,10 +7,10 @@ EricHepperle@gmail.com
 
 Description:
   This A* Algorithm simulator is a lightweight JavaFX application designed to demonstrate
-  basic understanding of pathfinding algorithms in a 2-Dimensional environment. The program's 
-  UI includes a grid 'map' representing the environment, as well as buttons allowing 
-  the user to change the environment. The algorithm requires a starting position and a goal
-  position and is initiated with the 'find path' button. It will analyze the map and highlight 
+  basic understanding of pathfinding algorithms in a 2-Dimensional environment. The
+  Application's UI includes buttons to set up a grid 'map' representing the environment, as well as buttons allowing 
+  the user to change the environment. The algorithm demonstration requires a starting position and a goal
+  position(determined by the user) and is initiated with the 'find path' button. It will analyze the map and highlight 
   the shortest path, as well all of the other paths considered.
 
 Project Package Includes:
